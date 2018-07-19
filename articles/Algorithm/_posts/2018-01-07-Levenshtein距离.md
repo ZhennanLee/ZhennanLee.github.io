@@ -5,6 +5,8 @@ tag:  Algorithm
 ---
 
 ## 概念
+
+
 　　Levenshtein 距离，又叫编辑距离(Edit Distance)，指从一个字符串转成另一个字符串所需要最少编辑次数。编辑距离越大，说明两个字符串越不相似。编辑操作包括插入、删除、替换字符。
 
 　　举个例子：sitting -> kitten
