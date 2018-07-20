@@ -13,16 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 呢喃细语
+title: 一切安好
 email: 49428828@qq.com
-description: 任时光匆匆流去，我只在乎你
+description: 一些胡思乱语，一些闲时杂记。
 welcome_message: Welcome to the space
 url: "https://mihai.wang"
 
 # 头像里面的标题
-avatarTitle: mihai
+avatarTitle: 米海
 # 头像里面的描述
-avatarDesc: It's dark inside
+avatarDesc: 小快，你要慢些走
 
 
 permalink: none
