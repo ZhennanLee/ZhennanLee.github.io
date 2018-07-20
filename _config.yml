@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 张强
-email: inteli_zq@163.com
-description: 厚积薄发
-welcome_message: Welcome to the horse farm
-url: "https://arch-long.cn"
+title: 呢喃细语
+email: 。。
+description: 闲时杂话
+welcome_message: Welcome to the space
+url: "https://mihai.wang"
 
 # 头像里面的标题
-avatarTitle: Despacito
+avatarTitle: mihai
 # 头像里面的描述
 avatarDesc: It's dark inside
 
@@ -46,7 +46,7 @@ nav:
 
 
 twitter_username: None
-github_username:  PerfectZQ
+github_username:  zhennanlee
 
 # Build settings
 markdown: kramdown
