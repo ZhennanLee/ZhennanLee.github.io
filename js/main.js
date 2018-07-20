@@ -2,7 +2,7 @@ $(function () {
 
     var href = location.href;
 
-    if (href == 'http://arch-long.cn/' || href == 'https://arch-long.cn/')
+    if (href == 'http://mihai.wang/' || href == 'https://mihai.wang/')
         isDisplayBlog(false);
     else
         isDisplayBlog(true);
@@ -42,7 +42,7 @@ $(function () {
 
 
     // blog 页面
-    if (/http[s]?:\/\/arch-long.cn\/articles\/.*/.test(href)) {
+    if (/http[s]?:\/\/mihai.wang\/articles\/.*/.test(href)) {
 
         /**
          * 加载文章目录结构
